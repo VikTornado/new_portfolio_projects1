@@ -1,4 +1,4 @@
-import WorkIm from '../Assets/workImg.jpeg'
+import Levels from '../Assets/levels.jpg'
 import RealEst from '../Assets/realestate.jpg'
 import sites from '../Assets/sites.jpeg'
 import face from '../Assets/face.jpeg'
@@ -9,7 +9,7 @@ export const data=[
     {
         id:1,
         name:"Levels",
-        image:WorkIm,
+        image:Levels,
         github:"",
         live:"https://levels.viktornado.net/",
     },
